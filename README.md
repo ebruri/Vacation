@@ -15,7 +15,7 @@ This is a webpage that was created for a vacation location in Turkey. It was cre
 
 ## GitHub Pages
 
-[Click here]() to check out this page.
+[Click here](https://ebruri.github.io/Vacation/) to check out this page.
 
 ## Known Bugs
 
